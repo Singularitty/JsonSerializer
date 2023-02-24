@@ -1,8 +1,5 @@
 /**
- * Fundamentos de Linguagens de Programacao
- * Asssignment 6 - Message-passing Concurrent Programming in Go and Rust
- * Section 2 - Go
- * Luis Ferreirinha N51127
+ * Luis Ferreirinha
  */
 
 package main
